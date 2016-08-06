@@ -1,0 +1,32 @@
+_repo: Slave-Narratives--a-Folk-History-of-Slavery-in-the-United-StatesMaryland-Narratives_11552
+_version: 0.0.1
+creator:
+  author:
+    agent_name: United States. Work Projects Administration
+    alias: Administration, Work Projects
+    gutenberg_agent_id: '3906'
+    url: http://www.gutenberg.org/2009/agents/3906
+description: ''
+gutenberg_bookshelf: Slavery
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11552'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Slavery -- Maryland'
+- !lcsh 'Slaves -- Maryland -- Biography'
+- !lcsh 'African Americans -- Maryland -- Biography'
+- !lcsh 'Slave narratives -- Maryland'
+- !lcc 'E300'
+- !lcsh 'Slaves -- Maryland -- Social conditions'
+- GITenberg
+title: 'Slave Narratives: a Folk History of Slavery in the United States
+
+  From Interviews with Former Slaves
+
+  Maryland Narratives'
+url: http://www.gutenberg.org/ebooks/11552
